@@ -27,7 +27,7 @@ cd network-reconnaissance-tool
   •	dnspython
 
 ## Install Depenedencies
-```sh
+```console
 sudo pip3 install python-nmap scapy requests dnspython
 ```
 

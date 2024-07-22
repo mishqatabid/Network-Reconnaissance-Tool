@@ -15,7 +15,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   •	Packet Sniffing
   
 ## Installation:
- ```sh
+ ```console
 git clone https://github.com/saimarshad1/network-reconnaissance-tool.git
 cd network-reconnaissance-tool
 ```

@@ -32,7 +32,9 @@ sudo pip3 install python-nmap scapy requests dnspython
 ```
 
 ## Run the Tool:
-    python3 main.py
+```console
+python3 main.py
+```
     
     
 

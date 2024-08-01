@@ -12,7 +12,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   -	Subdomain Enumeration
   -	Vulnerability Reconnaissance
   -	Directory Busting
-  •	Packet Sniffing
+  -	Packet Sniffing
   
 ## Installation:
  ```console

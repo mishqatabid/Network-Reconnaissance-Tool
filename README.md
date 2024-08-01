@@ -1,4 +1,4 @@
-# Network-Reconnaissance-Tool
+# Network Reconnaissance-Tool
 
 A thorough network reconnaissance tool that includes capabilities such as ping, traceroute, port scanning, host discovery, MAC address detection, subdomain enumeration, vulnerability scanning, network service enumeration, directory busting, and packet sniffing, along with comprehensive documentation and required dependencies.
 

@@ -21,7 +21,7 @@ cd network-reconnaissance-tool
 ```
 
 ## Requirements:
-  •	scapy   
+  -	scapy   
   •	python-nmap
   • requests
   •	dnspython

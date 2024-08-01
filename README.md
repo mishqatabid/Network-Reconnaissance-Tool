@@ -9,7 +9,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   -	Service Enumeration with OS Detection
   -	Host Discovery
   -	MAC Address Detection
-  •	Subdomain Enumeration
+  -	Subdomain Enumeration
   •	Vulnerability Reconnaissance
   •	Directory Busting
   •	Packet Sniffing

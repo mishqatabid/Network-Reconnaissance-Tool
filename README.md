@@ -5,7 +5,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
 ## Features:
   -	Ping a Host
   -	Traceroute to a Host
-  •	Port Scanning
+  -	Port Scanning
   •	Service Enumeration with OS Detection
   •	Host Discovery
   •	MAC Address Detection

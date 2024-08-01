@@ -11,7 +11,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   -	MAC Address Detection
   -	Subdomain Enumeration
   -	Vulnerability Reconnaissance
-  •	Directory Busting
+  -	Directory Busting
   •	Packet Sniffing
   
 ## Installation:

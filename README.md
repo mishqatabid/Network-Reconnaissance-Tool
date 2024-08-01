@@ -24,7 +24,7 @@ cd network-reconnaissance-tool
   -	scapy   
   -	python-nmap
   - requests
-  •	dnspython
+  -	dnspython
 
 ## Install Depenedencies
 ```console

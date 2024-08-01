@@ -10,7 +10,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   -	Host Discovery
   -	MAC Address Detection
   -	Subdomain Enumeration
-  •	Vulnerability Reconnaissance
+  -	Vulnerability Reconnaissance
   •	Directory Busting
   •	Packet Sniffing
   

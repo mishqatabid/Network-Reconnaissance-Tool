@@ -22,7 +22,7 @@ cd network-reconnaissance-tool
 
 ## Requirements:
   -	scapy   
-  •	python-nmap
+  -	python-nmap
   • requests
   •	dnspython
 

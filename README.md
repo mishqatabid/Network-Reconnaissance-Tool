@@ -3,7 +3,7 @@
 A thorough network reconnaissance tool that includes capabilities such as ping, traceroute, port scanning, host discovery, MAC address detection, subdomain enumeration, vulnerability scanning, network service enumeration, directory busting, and packet sniffing, along with comprehensive documentation and required dependencies.
 
 ## Features:
-  •	Ping a Host
+  -	Ping a Host
   •	Traceroute to a Host
   •	Port Scanning
   •	Service Enumeration with OS Detection

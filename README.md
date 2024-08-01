@@ -7,7 +7,7 @@ A thorough network reconnaissance tool that includes capabilities such as ping, 
   -	Traceroute to a Host
   -	Port Scanning
   -	Service Enumeration with OS Detection
-  •	Host Discovery
+  -	Host Discovery
   •	MAC Address Detection
   •	Subdomain Enumeration
   •	Vulnerability Reconnaissance
